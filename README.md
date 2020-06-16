@@ -22,4 +22,20 @@ The network takes raw RGB video frames of a pedestrian as an input and produce
 Responsibility of the second sub-network - GaitNN defined in gait_nn module is the further processing of the generated spatial features into one-dimensional **pose descriptors** with the use of a residual convolutional network. Temporal features are then extracted across these pose descriptors with the use of the multilayer recurrent cells - **LSTM** or **GRU**. All temporal features are finally aggregated with **Average temporal pooling** into one-dimensional **identification vector** with good discriminatory properties. As already mentioned in the text above, the human identification vectors are linearly separable with each other and can therefore be classified with e.g. **linear SVM**.
 
 
-#You can Contact for Further Information umair6622@gmail.com
+## Author
+
+👤 **Umair Arshad**
+
+- Github: [@umairarshadbutt](https://github.com/umairarshadbutt)
+- Twitter: [@its_UmairArshad](https://twitter.com/its_UmairArshad)
+- Linkedin: [umair-arshad-butt](https://www.linkedin.com/in/umair-arshad-butt/)
+
+👤 **Junaid Hussain**
+
+- Linkedin: [unaid-hocane-muzamal](https://www.linkedin.com/in/junaid-hocane-muzamal/)
+
+👤 **Muhi O Deen**
+
+- Facebook: [@muhi.u.din](https://web.facebook.com/muhi.u.din)
+
+
