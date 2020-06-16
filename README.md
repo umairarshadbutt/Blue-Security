@@ -1,5 +1,9 @@
 In this project you can find implementation of deep neural network for **people identification from video** by the characteristic of their **gait**. The processing is very robust against various covariate factors such as clothing, carrying conditions, shoe types and so on.
 
+> Wana know more? Watch the presentation video.
+
+[![screenshot](blue-security.png)](https://www.youtube.com/watch?v=PZp1QYSLcaA)
+
 # Requirements
 ## Software Requirements
     • TensorFlow 1.8
