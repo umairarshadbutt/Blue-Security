@@ -1,3 +1,7 @@
+# Blue Security
+[![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Umair-Click%20to%20Contact-brightgreen)](mailto:umair6622@gmail.com) [![hire-badge](https://img.shields.io/badge/Linkedin%20/%20Umair-Visit%20to%20Linkedin-brightgreen)](https://www.linkedin.com/in/umair-arshad-butt/) 
+
+
 In this project you can find implementation of deep neural network for **people identification from video** by the characteristic of their **gait**. The processing is very robust against various covariate factors such as clothing, carrying conditions, shoe types and so on.
 
 > Wana know more? Watch the presentation video.
